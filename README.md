@@ -12,13 +12,13 @@ Crie uma API para o gerenciamento de uma lista de tarefas pessoal, como por exem
 ● Estudar para prova de programação <br>
 ● Estudar para a prova de matemática <br>
 ● Ligar para meu amigo e perguntar quando devo entregar o trabalho <br>
-É uma lista de afazeres. <br>
+É uma lista de afazeres. <br> <br>
 As tarefas serão representadas por uma classe chamada Tarefa e deve possuir os seguintes atributos: <br>
 ● Id (int) <br>
 ● Descricao (string) <br>
 ● DataCriacao (DateTime) <br>
 ● Responsavel (string) <br>
-● Concluida (bool) <br>
+● Concluida (bool) <br> <br>
 Deverá ser criada uma classe Controller, para que a api receba as requisições de manipulação das tarefas. A controller deverá possuir métodos para: <br>
 ● Consultar todas as tarefas <br>
 ● Consultar todas as tarefas concluídas <br>
