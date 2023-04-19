@@ -1,5 +1,5 @@
 # APIComBancoDeDados<br>
-Trabalho em grupo do curso C# do RDI: <br>  
+Trabalho em grupo do curso C# do RDI sobre API com Banco de dados na linguagem C#(Csharp): <br>  
 Felipe Estevão  <br>
 Giovanna Ney  <br>
 José Alexandre  <br>
