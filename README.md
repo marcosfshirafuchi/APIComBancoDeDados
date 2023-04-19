@@ -1,12 +1,12 @@
 # APIComBancoDeDados<br>
 Trabalho em grupo do curso C# do RDI sobre API com Banco de dados na linguagem C#(Csharp): <br>  
-Felipe Estevão  <br>
-Giovanna Ney  <br>
-José Alexandre  <br>
-Lucas Iozzi  <br>
-Kelly Costa <br> 
-Marcos Shirafuchi  <br>
-Marcos Suda<br> <br>
+- Felipe Estevão.  <br>
+- Giovanna Ney.  <br>
+- José Alexandre.  <br>
+- Lucas Iozzi.  <br>
+- Kelly Costa. <br> 
+- Marcos Shirafuchi.  <br>
+- Marcos Suda.<br> <br>
 2. Criando uma api para lista de tarefas <br>
 Crie uma API para o gerenciamento de uma lista de tarefas pessoal, como por exemplo: <br>
 ● Estudar para prova de programação <br>
